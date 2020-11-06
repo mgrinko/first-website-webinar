@@ -1,5 +1,11 @@
 # Создай свой первый вебсайт за 2 часа
 
+## Записи вебинаров
+- [Обираємо ІТ спеціальність](https://www.youtube.com/watch?v=Jy8vUkQavk0&feature=youtu.be&list=PL7FuXFaDeEX0ovUeVROcfrren_M1z5LgY&t=205)
+- [Frontend чи Backend? Що це? І яка взагалі різниця?](https://www.youtube.com/watch?v=GvL9Cj7VCM8&list=PL7FuXFaDeEX0ovUeVROcfrren_M1z5LgY&index=2)
+- [Створи першу веб-сторінку за 2 години повністю з нуля](https://www.youtube.com/watch?v=725Xg0rw-ZI&feature=youtu.be&list=PL7FuXFaDeEX0bTyQhptYAD1lt01nI7UYt&t=1183)
+- [Front end розробник. Покроковий план освоєння професії](https://youtu.be/aY5y0tc2ObU)
+
 ## Устанавливаем программы
 1. Скачай и установи [Google Chrome](https://www.google.com/chrome/) если у тебя его ещё нет
 1. Скачай и установи [VSCode](https://code.visualstudio.com/)
