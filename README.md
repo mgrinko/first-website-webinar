@@ -1,9 +1,9 @@
 # Создай свой первый вебсайт за 2 часа
 
 ## Записи вебинаров
-- [Обираємо ІТ спеціальність](https://www.youtube.com/watch?v=Jy8vUkQavk0&feature=youtu.be&list=PL7FuXFaDeEX0ovUeVROcfrren_M1z5LgY&t=205)
-- [Frontend чи Backend? Що це? І яка взагалі різниця?](https://www.youtube.com/watch?v=GvL9Cj7VCM8&list=PL7FuXFaDeEX0ovUeVROcfrren_M1z5LgY&index=2)
-- [Створи першу веб-сторінку за 2 години повністю з нуля](https://www.youtube.com/watch?v=725Xg0rw-ZI&feature=youtu.be&list=PL7FuXFaDeEX0bTyQhptYAD1lt01nI7UYt&t=1183)
+- [Обираємо ІТ спеціальність](https://youtu.be/Jy8vUkQavk0)
+- [Frontend чи Backend? Що це? І яка взагалі різниця?](https://youtu.be/GvL9Cj7VCM8)
+- [Створи першу веб-сторінку за 2 години повністю з нуля](https://youtu.be/725Xg0rw-ZI)
 - [Front end розробник. Покроковий план освоєння професії](https://youtu.be/aY5y0tc2ObU)
 
 ## Устанавливаем программы
